@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fe604-28c5-43da-a831-7fb67d674865" name="Changes" comment="" />
+    <list default="true" id="ae2fe604-28c5-43da-a831-7fb67d674865" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/common/resp/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/aggregation/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/aggregation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/assocition/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/assocition/Tyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/class_/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/composition/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/composition/Heart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/dependency/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/extends_/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/interface_/PersonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/chengyunlai/uml/interface_/impl/PersonMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2OxwDZJQa1NbcLKFF1pGNctbV8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -38,6 +58,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,6 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1682515422710</updated>
       <workItem from="1682515424020" duration="937000" />
+      <workItem from="1682516431491" duration="631000" />
+      <workItem from="1682561550859" duration="5908000" />
     </task>
     <servers />
   </component>
